@@ -20,15 +20,20 @@ The following dependencies are required to run the code in this repository:
 ## Code Overview
 The code provided performs the following tasks:
 
-###Data Loading and Basic Exploration:### Loads the dataset and performs basic exploratory analysis such as checking shape, info, and the first few rows of the data.
+###Data Loading and Basic Exploration:
+Loads the dataset and performs basic exploratory analysis such as checking shape, info, and the first few rows of the data.
 
-###Data Cleaning:### Removes duplicate rows and checks for missing values.
+###Data Cleaning:
+Removes duplicate rows and checks for missing values.
 
-###Data Preparation:### Balances the dataset by sampling normal transactions to match the number of fraudulent transactions for better model training.
+###Data Preparation:
+Balances the dataset by sampling normal transactions to match the number of fraudulent transactions for better model training.
 
-###Model Training:### Uses Logistic Regression to train a classification model on the balanced dataset.
+###Model Training:
+Uses Logistic Regression to train a classification model on the balanced dataset.
 
-###Model Evaluation:### Calculates the accuracy scores on both training and testing data to evaluate model performance.
+###Model Evaluation:
+Calculates the accuracy scores on both training and testing data to evaluate model performance.
 
 ## Acknowledgments
 The dataset used in this project was obtained from Kaggle.
