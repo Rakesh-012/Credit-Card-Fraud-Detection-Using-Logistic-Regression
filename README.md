@@ -3,7 +3,7 @@ This repository contains code for detecting credit card fraud using Logistic Reg
 
 ## Dataset
 The dataset used for training the model can be found on 
-The dataset used for training the model can be found on [Kaggle.](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) You can also download the dataset from Google Drive.
+The dataset used for training the model can be found on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). You can also download the dataset from [Google Drive](https://drive.google.com/drive/folders/1diUJkWRHweV2FJvDIq-q23xfcYzQ-Ixn?usp=drive_link).
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred over two days, with 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, with the positive class (frauds) accounting for 0.172% of all transactions.
 
